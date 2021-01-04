@@ -68,10 +68,10 @@ include('inc/inc.php');
     </div>
     <div class="well" align="center">
         <p class="contact">
-            Join us on IRC: irc.wtfux.org #doxbin<br />
-            Follow us on Twitter (<a href="http://twitter.com/TheREALDoxbin">@TheREALDoxbin</a>)<br />
-            E-mail: <a href="mailto:doxbin@tormail.org">doxbin@tormail.org</a> <a href="pgp.txt">PGP key</a> (Use it)<br />
-            Complaints: (414) 369-2464<br />
+            <br />
+           <br />
+            <br />
+           <br />
         </p>
     </div>
 </div>
