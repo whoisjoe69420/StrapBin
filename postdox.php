@@ -50,9 +50,6 @@ include('inc/inc.php');
                         </div>
                     </div>
                     <div class="form-group">
-                        <label class="col-xs-1 control-label">Captcha</label>
-                        <div class="col-xs-4">
-                            <input type="text" placeholder="Captcha..." class="form-control" name="captcha" id="captcha-form" autocomplete="off" />
                         </div>
                     </div>
                     <div class="form-group">
